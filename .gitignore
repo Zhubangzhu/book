@@ -1,0 +1,28 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+target/
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+#编译文件
+*.class
+
+#包文件
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
